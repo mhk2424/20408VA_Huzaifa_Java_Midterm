@@ -2,39 +2,65 @@
 
 What is a programming language?
 Answer:
+- A programming language is a set of vocabulary and rules used to communicate with computers
+and perform specific tasks with the digital device.
 
 What is a JDK composed of? Define each components?
 Answer:
+-The Java Development Kit (JDK) is composed of the Java Runtime Environment(JRE) and the Java Virtual Machine (JVM).
+- The JDK encompasses the JRE and JVM and allows developers to create programs to be executed on JVM and JRE
+- JVM is the java platform used to execute programs and write script/code.
+- JRE is the software which creates and environment for Java to run on-disk.
 
 What is an IDE?
 Answer:
+- IDE is an Integrated Development Environment. These IDE's typically provide the ability to edit, compile,
+interpret, and debug via a graphical user interface (GUI).
 
 What are some of the most popular Java IDEs available in the market?
 Answer:
+- Eclipse, IntelliJ IDEA, NetBeans, BlueJ, and JDevelepor.
 
 Explain the entire java life cycle.
 Answer:
+-
 
 What is a class?
 Answer:
+- A class in Java is the blueprint from which individual objects are created.
 
 What is an object?
 Answer:
+- In Java, an object is a member (also called an instance) of a Java class.
+- Each object has an identity, behavior, and a state.
+- The identity is used to specify the character of the object
+- The state of an object is stored in fields that represent the individual characteristics of that object
+- The object's behavior is shown via methods that are defined in Java
 
 What is the entry point of a Java project?
 Answer:
+- The entry point of any Java project is the main method
 
 Why is the main() method static?
 Answer:
+- Java main() method is always static so that compiler can call it without the creation of an object
+or before the creation of an object of the class.
 
 Which class is the superclass of all classes?
 Answer:
+- The object class is the root or superclass of all classes which is located in java.lang package.
 
 What is difference between path and classpath variables?
 Answer:
+- Path is a tool that is used to find and locate binary files like “java” and “javac”.
+- Classpath is used by a system or application ClassLoader to locate and load compiled Java bytecodes stored
+in the “.class” file.
+- Both are very important environment variables
 
 What is the difference between an Interface and Abstract class?
 Answer:
+- Interface allows you to define functionalities whereas an abstract class allows you to define functionality
+that subclasses can implement or override
 
 Can you make an Object from an Interface and Abstract class? If yes or no, how would you do it?
 Answer:
