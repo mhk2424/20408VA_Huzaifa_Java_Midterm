@@ -69,10 +69,21 @@ Answer:
 
 What is Access Modifier?
 Answer:
--
+- An access modifier is used to help limit the scope of classes and projects
 
 What is OOP? Define each OOP concept.
 Answer:
+- OOP stands for Object Oriented Programming
+- This lets us create working methods and variables
+- Abstraction: using simple things to represent complexity such as objects, classes, and variables
+- Encapsulation: this is the practice of keeping fields within a class private, this will allow the use
+and re-use of code components or variables without allowing access to the system
+- Inheritance: lets programmers create new classes that share the attributes of existing ones, this
+allows coders to build upon previous work and have progress saved
+- Polymorphism: Allows coders to use the same word for two different things in different contexts,
+the two forms of this are; method overloading: when the code implies different meanings and
+method overriding: when the values of the supplied variables have different meaning.
+
 
 What is Java Package and which package is imported by default?
 Answer:
