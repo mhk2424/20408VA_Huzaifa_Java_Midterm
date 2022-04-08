@@ -109,31 +109,46 @@ Answer:
 
 Explain exceptions in java and how to handle them.
 Answer:
--
+- An exception in java is a disruption in the normal flow of the program.
+- This is handled via the try-catch method.
 
 What is static keyword? When and how do we use it?
 Answer:
+- The keyword static means that the particular member belongs to a type itself, rather than
+to an instance of that type.
+- It is used by its class name, static.
 
 What is final keyword? When and how do we use it?
 Answer:
+- The final keyword is used to restrict the user, via method, class, or variable.
 
 Explain the difference between final, finally and finalize?
 Answer:
+- final is the access modifier that restricts class, method, or variable
+- finally is the block in java exception handling which executes important code
+- finalize is the process or method used to perform clean up processing
 
 What is a constructor?
 Answer:
+- A constructor is a special method used to initialize objects.
+- The constructor is called when an object of a class is created
 
 Can we have multiple constructors in a class?
 Answer:
+- Yes, you can have multiple constructors in a class but the parameters can't be the same
 
 If we don't have a constructor declared, what is called during the object creation?
 Answer:
+- By default, the compiler with call a no-argument constructor
 
 What is "this" keyword in Java? When would we use it?
 Answer:
+- this refers to the current object in the method or constructor
+- It is used to remove confusion between class attributes and parameters
 
 What is "super" keyword in Java? What are some scenarios we would use it?
 Answer:
+-
 
 What does JVM stand for?
 Answer:
