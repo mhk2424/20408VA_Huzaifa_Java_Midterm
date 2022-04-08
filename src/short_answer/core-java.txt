@@ -64,9 +64,12 @@ that subclasses can implement or override
 
 Can you make an Object from an Interface and Abstract class? If yes or no, how would you do it?
 Answer:
+- We cannot create an object of interface since it isn't a class
+- Abstract is considered and incomplete class
 
 What is Access Modifier?
 Answer:
+-
 
 What is OOP? Define each OOP concept.
 Answer:
