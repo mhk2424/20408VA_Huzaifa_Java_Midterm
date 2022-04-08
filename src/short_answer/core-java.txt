@@ -84,21 +84,32 @@ allows coders to build upon previous work and have progress saved
 the two forms of this are; method overloading: when the code implies different meanings and
 method overriding: when the values of the supplied variables have different meaning.
 
-
 What is Java Package and which package is imported by default?
 Answer:
+- A Java Package is used to group related classes in java
+- java.lang is the default package
 
 What is an API? List some API's that you have used so far.
 Answer:
+- An API is an Application Programming Interface which allows users, coders, programmers and etc
+interact with anyone's code
+- Git is the one we have used
 
 Does java support multiple inheritance? Why or why not?
 Answer:
+- No, Java does not support multiple inheritance since classes can't pick between multiple ways
+of doing the same thing
 
 What is method overloading? List all of the different ways to overload.
 Answer:
+- When two methods have the same name but different meanings, this can be done in 3 separate ways
+- Method 1: changing the number of parameters
+- Method 2: changing the data types of the parameters
+- Method 3: changing the order of the parameters
 
 Explain exceptions in java and how to handle them.
 Answer:
+-
 
 What is static keyword? When and how do we use it?
 Answer:
