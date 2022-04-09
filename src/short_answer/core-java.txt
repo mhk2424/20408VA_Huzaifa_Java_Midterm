@@ -171,12 +171,15 @@ Answer:
 
 What is the difference between JDK and JVM?
 Answer:
+- JDK is contingent upon platform whereas JVM is not can can be run on any platform
 
 What is the difference between JVM and JRE?
 Answer:
+- JVM is independent whereas JRE is contingent upon platform
 
 Explain the difference between compile-time and run-time?
 Answer:
+-
 
 What is heap?
 Answer:
