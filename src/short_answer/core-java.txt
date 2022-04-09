@@ -148,19 +148,26 @@ Answer:
 
 What is "super" keyword in Java? What are some scenarios we would use it?
 Answer:
--
+- The super keyword refers to the superclass (parent) objects
+- It is used to call superclass methods and access the superclass constructor
+- A scenario we would use it for is to eliminate the confusion between superclasses and subclasses
+that have methods with the same name.
 
 What does JVM stand for?
 Answer:
+- Java Virtual Machine
 
 Is JVM platform independent?
 Answer:
+- No, it is platform dependent
 
 What version of Java are you using?
 Answer:
+- java 11.0.14 2022-01-18 LTS
 
 What does JAR stand for?
 Answer:
+- Java ARchive
 
 What is the difference between JDK and JVM?
 Answer:
